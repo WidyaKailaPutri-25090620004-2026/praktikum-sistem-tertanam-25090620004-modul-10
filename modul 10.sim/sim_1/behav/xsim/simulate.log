@@ -1,0 +1,29 @@
+Time resolution is 1 ps
+Note: Latensi (siklus): row hit = 5, row closed = 8, row conflict = 11
+Time: 415 ns  Iteration: 0  Process: /tb_dram_model/stim  File: C:/Users/Administrator/Documents/modul 10/modul 10.srcs/sim_1/new/tb_dram_model.vhd
+Note: OK    Test 1: hit < closed < conflict
+Time: 415 ns  Iteration: 0  Process: /tb_dram_model/stim  File: C:/Users/Administrator/Documents/modul 10/modul 10.srcs/sim_1/new/tb_dram_model.vhd
+Note: Latensi (siklus): row hit = 5, row closed = 8, row conflict = 11
+Time: 415 ns  Iteration: 0  Process: /tb_dram_model/stim  File: C:/Users/Administrator/Documents/modul 10/modul 10.srcs/sim_1/new/tb_dram_model.vhd
+Note: OK    Test 1: hit < closed < conflict
+Time: 415 ns  Iteration: 0  Process: /tb_dram_model/stim  File: C:/Users/Administrator/Documents/modul 10/modul 10.srcs/sim_1/new/tb_dram_model.vhd
+Note: OK    Test 2: 32 kata di dua row tertulis dan terbaca benar
+Time: 8435 ns  Iteration: 0  Process: /tb_dram_model/stim  File: C:/Users/Administrator/Documents/modul 10/modul 10.srcs/sim_1/new/tb_dram_model.vhd
+Note: Latensi terpanjang saat 120 pembacaan beruntun = 28 siklus (row hit normal = 5)
+Time: 15925 ns  Iteration: 0  Process: /tb_dram_model/stim  File: C:/Users/Administrator/Documents/modul 10/modul 10.srcs/sim_1/new/tb_dram_model.vhd
+Note: OK    Test 3: refresh menahan akses sesaat (latensi melonjak)
+Time: 15925 ns  Iteration: 0  Process: /tb_dram_model/stim  File: C:/Users/Administrator/Documents/modul 10/modul 10.srcs/sim_1/new/tb_dram_model.vhd
+Note: SIMULASI MODEL DRAM SELESAI: SEMUA TEST LULUS.
+Time: 15925 ns  Iteration: 0  Process: /tb_dram_model/stim  File: C:/Users/Administrator/Documents/modul 10/modul 10.srcs/sim_1/new/tb_dram_model.vhd
+Note: Latensi (siklus): row hit = 5, row closed = 8, row conflict = 11
+Time: 415 ns  Iteration: 0  Process: /tb_dram_model/stim  File: C:/Users/Administrator/Documents/modul 10/modul 10.srcs/sim_1/new/tb_dram_model.vhd
+Note: OK    Test 1: hit < closed < conflict
+Time: 415 ns  Iteration: 0  Process: /tb_dram_model/stim  File: C:/Users/Administrator/Documents/modul 10/modul 10.srcs/sim_1/new/tb_dram_model.vhd
+Note: OK    Test 2: 32 kata di dua row tertulis dan terbaca benar
+Time: 8435 ns  Iteration: 0  Process: /tb_dram_model/stim  File: C:/Users/Administrator/Documents/modul 10/modul 10.srcs/sim_1/new/tb_dram_model.vhd
+Note: Latensi terpanjang saat 120 pembacaan beruntun = 28 siklus (row hit normal = 5)
+Time: 15925 ns  Iteration: 0  Process: /tb_dram_model/stim  File: C:/Users/Administrator/Documents/modul 10/modul 10.srcs/sim_1/new/tb_dram_model.vhd
+Note: OK    Test 3: refresh menahan akses sesaat (latensi melonjak)
+Time: 15925 ns  Iteration: 0  Process: /tb_dram_model/stim  File: C:/Users/Administrator/Documents/modul 10/modul 10.srcs/sim_1/new/tb_dram_model.vhd
+Note: SIMULASI MODEL DRAM SELESAI: SEMUA TEST LULUS.
+Time: 15925 ns  Iteration: 0  Process: /tb_dram_model/stim  File: C:/Users/Administrator/Documents/modul 10/modul 10.srcs/sim_1/new/tb_dram_model.vhd
